@@ -1,0 +1,2 @@
+class BlaCreateInput {}
+export { BlaCreateInput };

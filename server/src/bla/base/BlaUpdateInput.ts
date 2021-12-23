@@ -1,0 +1,2 @@
+class BlaUpdateInput {}
+export { BlaUpdateInput };
