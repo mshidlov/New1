@@ -1,0 +1,2 @@
+class ListCreateInput {}
+export { ListCreateInput };

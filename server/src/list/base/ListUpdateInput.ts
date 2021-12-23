@@ -1,0 +1,2 @@
+class ListUpdateInput {}
+export { ListUpdateInput };
