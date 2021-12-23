@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.10.3",
+  "appInfo": {
+    "name": "My app-1",
+    "description": "",
+    "version": "rmbph1no",
+    "id": "ckxjd1ixw022501s6ffhx58cl",
+    "url": "https://staging.amplication.com/ckxjd1ixw022501s6ffhx58cl",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckxjd1ixw022501s6ffhx58cl",
+      "authProvider": "Jwt"
+    }
+  }
+}
